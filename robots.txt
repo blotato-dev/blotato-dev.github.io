@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blotato-dev.github.io/sitemap.xml
